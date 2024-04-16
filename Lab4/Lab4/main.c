@@ -1,3 +1,12 @@
+/*UNIVERSIDAD DEL VALLE DE GUATEMALA
+IE2023: PROGRAMACIÓN DE MICROCONTROLADORES
+Laboratorio4.C
+AUTOR: Jose Andrés Velásquez García  
+PROYECTO: Contador de 8 bits y mostrador disp
+HARDWARE: ATMEGA328P
+CREADO: 8/04/2024
+ÚLTIMA MODIFICACIÓN: 8/04/2024 10:54
+*********************************/
 #define F_CPU 16000000
 //LIBRERIAS
 #include <avr/io.h>
